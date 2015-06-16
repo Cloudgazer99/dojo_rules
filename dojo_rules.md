@@ -1,5 +1,3 @@
-Dojo Rules
-==========
 * Git
 * JavaScript
 * Ruby

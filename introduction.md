@@ -1,1 +1,6 @@
-git add introduction.md "HTML & CSS"
+* Git
+* Ruby
+* Javascript
+* HTML
+* CSS
+* IOS
